@@ -14,6 +14,14 @@
     ]
   },
   "note": {
-    "dataSource": "db"
+    "dataSource": "mongo",
+    "$promise": {},
+    "$resolved": true
+  },
+  "event": {
+    "dataSource": "mongo",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }
